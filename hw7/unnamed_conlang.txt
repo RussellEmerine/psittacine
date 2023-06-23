@@ -1,0 +1,104 @@
+peude,[Verb]burn[3Per][SG]
+peucen,[Verb]burn[1Per][SG]
+yimdamdan,[Verb]give[ROOT]
+teudanse,[Verb]sleep[2Per][SG]
+peucen,[Verb]burn[1Per][SG]
+peu,[Verb]burn[ROOT]
+geupanxe,[Verb]locate[4Per][SG]
+veumpchimxe,[Verb]teach[4Per][PL]
+ganteuken,[Verb]need[1Per][PL]
+fuhvasa,[PASS][2Per][PL]
+fagyiche,[Verb]light[3Per][PL]
+qi,[DEF]
+cun,if
+punchin,then
+xuhconpxan,definitely
+gan,[QUES]
+chepa,[QUES]
+vasoa,who
+pati,where
+deudzhi,what
+zhits',small
+bazhits',[INT]small
+bababazhits',[INT][INT][INT]small
+babepeup',[INT][INT]soundly
+bazhikenp',[INT]happy
+junguba,tall[INT]
+jungubaba,tall[INT][INT]
+kopvababababa,patiently[INT][INT][INT][INT]
+vipoamveba,quickly[INT]
+dibfoa,interesting[INT]
+kengeba,strong[INT]
+ka,[PRO][1Per][SG]
+teu,[PRO]2Per][SG]
+tancim,[Noun][SG]candle
+kyitancim,[Noun][PL]candle
+satuhgi,[Noun][SG]match
+kyisatuhgi,[Noun][PL]match
+kyigoxyina,[Noun][PL]lesson
+gepoa,[Noun][SG]table
+kyikyin,[Noun][PL]sun
+cixo,[Noun][SG]boy
+zhike,[Noun][SG]arm
+cixozhike,[Noun][SG]boy[POSS]arm
+kyicixozhike,[Noun][PL]boy[POSS]arm
+veumzhike,[Noun][SG]student[POSS]arm
+ceunepodimbcom,[Noun][SG]magician[POSS]body
+veumpodimbcom,[Noun][SG]student[POSS]body
+podimbcom:[Noun][SG]body
+xanzhoa:[NOM][INTRANS][3Per][SG]
+xanvoa:[NOM][INTRANS][1Per][PL]
+xankonchoa:[NOM][INTRANS][PAST][3Per][PL]
+xamtifoa:[NOM][DITRANS][LPRES][1Per][SG]
+xatifoa:[NOM][TRANS][LPRES][1Per][SG]
+qyumpeti:[ACC][DITRANS][SPAST][2Per][SG]
+qyugoxi:[ACC][TRANS][FUT][4Per][SG]
+qyupi:[ACC][TRANS][1Per][SG]
+qyuki:[ACC][TRANS][3Per][SG]
+kemfuhn:[OBL][DITRANS][1Per][SG]
+kemgochun:[OBL][DITRANS][FUT][3Per][PL]
+kempesuhn:[OBL][DITRANS][SPAST][2Per][SG]
+
+voansade, verb cannot be conjugated
+fecen, verb cannot be conjugated
+teudansede, multiple conjugations
+peucenken, multiple conjugations
+peuxen, invalid conjugation
+fagyiba, incorrect intensifier
+xuhconpxande, can only conjugate nouns
+ganzhoa, can only modify case markers
+ganse, can only conjugate nouns
+vasoaba, cannot intensify question words
+gandeudzhi, cannot combine question with word
+deudzhixoa, can only modify case markers
+zhits'ba, intensifer appears before for ejectives
+bazhits'ba, intensifier can only appear before word
+peup'baba, intensifer can only appear before
+babazhikenp'ba, intensifier can only appear before
+bajungu, intensifier can only appear after
+babajungu, intensifier can only appear after
+bakopvaba, intensifier can only appear after
+bakengebaba, intensifer can only appear after
+kaba, cannot modify pronouns
+kachoa, cannot modify pronouns
+xoaka, cannot modify pronouns
+teude, cannot conjugate pronouns
+kyisagjuhm, cannot make plural
+kyiceu, mass noun cannot be plural
+kyizhuya, mass noun cannot be plural
+sumxakyi, plural must come before noun
+satuhgikyi, plural must come before noun
+sumxazhike, body part only attached to people
+satuhgipodimbcom, body part after people noun
+zhikeceune, body part after noun
+zhikegepoa, body part after noun
+cixogepoa, only body parts can be attached
+veumcixo, only body parts can be attached
+qyufoa, not accusative case marker
+xanpi, not nominative case marker
+xamzhoakon, not in the correct order
+konxamzhoa, not in correct order
+kyixamzhoa, cannot pluralize
+qyunpi, cannot be INTRANS
+kefuhn, does not agree with DITRANS
+kenxun, does not agree with DITRANS

@@ -1,0 +1,111 @@
+\documentclass[12pt]{article}
+\pagestyle{plain}
+
+\usepackage[letterpaper,margin=1in]{geometry}
+\usepackage{amsmath}
+\usepackage[tone]{tipa}
+\usepackage{amssymb}
+\usepackage{array}
+\usepackage{hyperref}
+\usepackage{leipzig}
+\usepackage{gb4e}
+\noautomath
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+\usepackage{wrapfig}
+\usepackage{glossary-inline}
+\usepackage{caption}
+
+\makenoidxglossaries
+
+\newleipzig{InessTwo}{iness2}{2d inessive}
+\newleipzig{InessThree}{iness3}{3d inessive}
+\newleipzig{AdessTwo}{adess2}{2d adessive}
+\newleipzig{AdessThree}{adess3}{3d adessive}
+\newleipzig{IllThree}{ill3}{3d illative}
+\newleipzig{AllTwo}{all2}{2d allative}
+\newleipzig{AllThree}{all3}{3d allative}
+\newleipzig{AblThree}{abl3}{3d ablative}
+\newleipzig{Ger}{ger}{gerund}
+\newleipzig{Anim}{anim}{animate}
+\newleipzig{Inanim}{inanim}{inanimate}
+\newleipzig{Hst}{hst}{historical}
+\newleipzig{Int}{int}{interrogative}
+\newleipzig{Agt}{agt}{agentive}
+
+
+\renewcommand{\L}{\textscl}
+
+% Document
+\begin{document}
+    \title{A Reference Grammar of Psittacine}
+    \date{}
+    \author{Russell Emerine}
+
+    \maketitle
+
+    \newpage
+
+    \tableofcontents
+
+    \newpage
+
+
+    \section{Background}\label{sec:background}
+    \input{background}
+    \newpage
+
+
+    \section{Phonology}\label{sec:phonology}
+    \input{phonology}
+    \newpage
+
+
+    \section{Pronouns}\label{sec:pronouns}
+    \input{pronouns}
+    \newpage
+
+
+    \section{Nouns and Stance Forms}\label{sec:nouns-and-stance-forms}
+    \input{nouns}
+    \newpage
+
+
+    \section{Adjectives}\label{sec:adjectives}
+    \input{adjectives}
+    \newpage
+
+
+    \section{Verbs}\label{sec:verbs}
+    \input{verbs}
+    \newpage
+
+
+    \section{Syntax}\label{sec:syntax}
+    \input{syntax}
+    \newpage
+
+
+    \section{Derivational Morphology}\label{sec:derivational-morphology}
+    \input{derivational-morphology}
+    \newpage
+
+
+    \section{Cognitive Metaphor}\label{sec:cognitive-metaphor}
+    \input{cognitive-metaphor}
+    \newpage
+
+
+    \section{Glossary}\label{sec:glossary}
+
+    All nonstandard Leipzig-style abbreviations used in the examples are listed.
+    There are more unlisted stance forms that were not used,
+    which are for ablative, adessive, allative, elative, illative, and inessive forms.
+    These are \textit{not} noun cases, as they don't attach to locations.
+    I am overloading the notation to express similar spatial relations.
+
+    \printnoidxglossary[style=mcolblock,nonumberlist]
+
+    \newpage
+
+\end{document}

@@ -1,0 +1,90 @@
+Multichar_Symbols
++GER
++ADJ
++INESS2
++ADESS2
++INESS3
++ADESS3
++POSS
++PST
++HST
++FUT
++NEG
++AGT.ANIM
++AGT.INANIM
++PTCP
++NMLZ
+
+LEXICON Root
+ConjRoot;
+NounRoot;
+VerbRoot;   
+AdjRoot;   
+
+LEXICON ConjRoot
+and:tot         #;
+or:cec          #;
+
+LEXICON NounRoot
+bird:wihǔ       Noun;
+forest:hengó    Noun;
+heart:kîr       Noun;
+metal:twazwa    Material;
+water:kwal      Material;
+! Pronouns can be accounted for as nouns.
+1.SG:wùg        Stance;
+1.PL:wùgwùg     Stance;
+DEM.DIST.INANIM.SG:krũx     Material;
+DEM.DIST.INANIM.PL:krũxkrũx Stance;
+
+LEXICON Material
++ADJ:hły        Adj;
+0:0             Noun;
+
+LEXICON Noun
+0:0             Stance;
++like:łon       Adj;
+
+LEXICON Stance
++INESS2:ni      Stance;
++ADESS2:na      Stance;
++INESS3:li      Stance;
++ADESS3:la      Stance;
++POSS:ty        Stance;
+0:0             #;
+
+LEXICON VerbRoot
+do:zà           Verb;
+eat:kōg         Verb;
+make:hłĩk       Verb;
+see:krân        Verb;
+use:õg          Verb;
+
+LEXICON AdjRoot
+big:xrôk        Adj;
+bright:nùr      Adj;
+good:kwãl       Adj;
+red:cycīl       Adj;
+
+LEXICON Adj
+0:0             Verb;
++become:kac     Verb;
+
+LEXICON Verb
++AGT.ANIM:ryl   Noun;
++AGT.INANIM:łyr Noun;
++NMLZ:zoc       Noun;
++PTCP:et        Adj;
++GER:ga         Noun;
+0:0             Tense;
+
+LEXICON Tense
+0:0             Negation;
++PST:ce         Negation;
++HST:cat        Negation;
++FUT:wyk        Negation;
+
+LEXICON Negation
+0:0             #;
++NEG:hy         #;
+

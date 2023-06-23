@@ -1,0 +1,72 @@
+wihǔ, bird
+wihǔty, bird+POSS
+wùg, 1.SG
+wùgna, 1.SG+ADESS2
+wùgwùg, 1.PL
+wùgwùgna, 1.PL+ADESS2
+zà, do
+zàcat, do+HST
+kōgga, eat+GER
+hłĩk, make
+kōggaty, eat+GER+POSS
+kwal, water
+kwãl, good
+kwalhły, water+ADJ
+kwalhłyhy, water+ADJ+NEG
+kwalhłycehy, water+ADJ+PST+NEG
+kwãlhy, good+NEG
+krũxhły, DEM.DIST.INANIM.SG+ADJ
+krũxty, DEM.DIST.INANIM.SG+POSS
+krũxkrũxty, DEM.DIST.INANIM.PL+POSS
+hengótyni, forest+POSS+INESS2
+hengóna, forest+POSS+ADESS2
+twazwałon, metal+like
+twazwałonhy, metal+like+NEG
+twazwahły, metal+ADJ
+twazwahłyhy, metal+ADJ+NEG
+twazwałoncat, metal+like+HST
+twazwahłycat, metal+ADJ+HST
+twazwahłykac, metal+ADJ+become
+twazwahłykacet, metal+ADJ+become+PTCP
+twazwahłykacga, metal+ADJ+become+GER
+twazwahłykacgahy, metal+ADJ+become+GER+POSS
+kōghy, eat+NEG
+kōgwyk, eat+FUT
+kōgce, eat+PST
+kōgwykhy, eat+FUT+NEG
+tot, and
+krân, see
+krânłyr, see+AGT.INANIM
+krânłyrłon, see+AGT.INANIM+like
+krânrylłonłyr, see+AGT.ANIM+like+AGT.INANIM
+xrôk, big
+xrôkkac, big+become
+kîrtytytyty, heart+POSS+POSS+POSS+POSS
+õgzoc, use+NMLZ
+õgzocty, use+NMLZ+POSS
+cycīl, red
+cycīlce, red+PST
+cycīlet, red+PTCP
+cycīlethy, red+PTCP+NEG
+
+wihu, no accent
+wihù, wrong accent
+kîrhły, heart is not a material (for our purposes)
+kwalce, water is not a verb
+kwalhy, water is not a verb
+kwãlhły, good is not a noun (so also not a material)
+krũxkrũxhły, plural cannot be used as adjective form
+wit, nonsense word
+witty, suffix on nonsense word
+twazwahłykacgahy, negation suffix on gerund which is noun
+kōgwykce, multiple tenses
+kōgcece, multiple tenses
+kōghyce, negation before tense is wrong
+hengótyhy, negation on a stance form
+hengóga, gerund on a noun
+wùgłon, me-like is invalid (for our purposes)
+krânłyrłonty, stance suffix on adjective
+krânłonłyr, +like on a verb is wrong
+õgkac, +become on a verb is wrong
+twazwakac, +become on a noun is wrong
+cycīlhyet, suffix after negation

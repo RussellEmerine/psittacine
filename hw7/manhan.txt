@@ -1,0 +1,34 @@
+
+sìvá, sìvá[Nom]
+sìvám, sìvá[Acc]
+mólúm, mólû[Acc]
+únúm, únû[Acc]
+lúng, lúng[Nom]
+lúngém, lúng[Acc]
+hàjó, hàvé[Prs][1sg]
+hàvébâ, hàvé[Ipf][2sg]
+m'hén, [Neg]hàvé[Prs][3pl]
+sò, êsè[Prs][1sg]
+vî, vólé[Prs][2sg]
+gèndépá, gènté[Ipf][1sg]
+dêgèndên, dêgènté[PrsPtcp]
+ámé, ámá[Sbjv][1sg]
+dónái, dóná[Prs][2pl]
+vérépám, véré[Ipf][1pl]
+vésò, véré[PstPtcp]
+lóvêt, lóvé[Prs][3sg]
+lóvébât, lóvé[Ipf][3sg]
+
+sìváném, wrong accusative suffix
+mólûm, wrong tone
+mûném, wrong tone and wrong accusative suffix
+hàvépâ, p -> b before high tone
+dêhén, wrong prefix
+gèntò, t -> s in past participle
+gèntâ, t -> d before high tone
+m'gèndên, wrong prefix
+ámépá, wrong imperfect stem
+ámábá, p !-> b before rising tone in last syllable
+dónên, wrong present participle suffix
+vérò, r -> s in past participle
+lóvábât, wrong imperfect stem

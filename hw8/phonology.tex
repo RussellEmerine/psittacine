@@ -1,0 +1,175 @@
+\subsection{Consonants}\label{subsec:consonants}
+
+Parrots do not have the same mouths as humans.
+Also, parrots do not have a voice-producing larynx like humans do.
+They instead produce sound at the syrinx,
+an organ at the fork of the trachea found in birds.
+While syrinxes are more powerful and flexible than larynxes,
+the sounds they make are similar to human speech sounds for the purposes of notation.
+So, sounds will be written as if they used standard human place and manner of articulation.
+
+The biggest articulatory difference between humans and parrots is that
+parrots don't have lips, so they are not able to produce labials.
+In videos I found, experienced parrots can make labial-sounding sounds,
+but they aren't created using the edge of the beak,
+but by some other mechanism, perhaps the tongue.
+Psittacine will not have labials at all.
+
+Some other notable features I noticed in videos are that
+parrots have very pronounced \textipa{[\:R]} and \textipa{[l]} sounds,
+and don't make human-like trills.
+I chose to expand on the sound of strong approximants by including more approximants.
+I chose for there to only be voiceless plosives and fricatives,
+to produce a more ``chitter-chatter'' kind of sound.
+
+\begin{center}
+    \begin{tabular}{|c|c|c|c|c|}
+        \hline
+        & Alveolar
+        & Retroflex
+        & Velar
+        & Glottal \\
+        \hline
+        Plosive
+        & \textipa{/t/} t
+        &
+        & \textipa{/k/} k
+        & \\
+        \hline
+        Nasal
+        & \textipa{/n/} n
+        &
+        & \textipa{/N/} g
+        & \\
+        \hline
+        Fricative
+        & \textipa{/s/} s
+        & \textipa{/\:s/} x
+        &
+        & \textipa{/h/} h \\
+        \hline
+        Affricate
+        & \textipa{/\t{ts}/} z
+        & \textipa{/\t{t\:s}/} c
+        &
+        & \\
+        \hline
+        Approximant
+        &
+        & \textipa{/\:R/} r
+        & \textipa{/w/} w
+        & \\
+        \hline
+        Lateral Approximant
+        & \textipa{/l/} l
+        &
+        & \textipa{/\L/} ł
+        & \\
+        \hline
+    \end{tabular}
+\end{center}
+
+\subsection{Vowels}\label{subsec:vowels}
+
+Parrots have a complete range of vowel qualities,
+with no significant difference from humans.
+While they don't have lips, they can make rounded vowels with no problems,
+possibly using their tongue.
+I chose the following inventory because just because it contains both
+\textipa{/\ae/} and \textipa{/A/},
+which I plan to use in specific vocabulary items,
+and it isn't too imbalanced.
+
+\begin{center}
+    \begin{tabular}{|c|c|c|c|}
+        \hline
+        & Front             & Mid             & Back            \\
+        \hline
+        High & \textipa{/i/} i   & \textipa{/1/} y & \textipa{/u/} u \\
+        \hline
+        Mid  & \textipa{/e/} e   &                 &                 \\
+        \hline
+        Low  & \textipa{/\ae/} a &                 & \textipa{/A/} o \\
+        \hline
+    \end{tabular}
+\end{center}
+
+There are no diphthongs.
+There are some instances of adjacent vowels,
+all pronounced in hiatus.
+
+\subsection{Tones and Phonation}\label{subsec:tones-and-phonation}
+
+Since parrot speech is similar to birdsong,
+Psittacine will have a relatively high number of tones.
+Parrots also have atypical phonation.
+Creaky voice seems to be especially common in the videos I saw.
+(Interestly, the combination of tone contours and phonation is also present in Vietnamese.)
+
+Tones will only be applied to approximately one syllable per content morpheme,
+in a manner similar to the toned pitch accent system in Norwegian and Swedish.
+The tones on the accented syllables may allophonically affect tone in surrounding syllables,
+i.e.\ a low tone start on an accented syllable may make the syllable before also low.
+
+The following tones and phonations will be available on all vowels.
+They are demonstrated on \textipa{/A/}.
+
+\begin{center}
+    \begin{tabular}{|c|c|}
+        \hline
+        Description   & Transcription               \\
+        \hline
+        Mid tone      & \textipa{/A\tone{22}/} o    \\
+        \hline
+        High tone     & \textipa{/A\tone{55}/} ō    \\
+        \hline
+        Rising tone   & \textipa{/A\tone{35}/} ó    \\
+        \hline
+        Falling tone  & \textipa{/A\tone{51}/} ò    \\
+        \hline
+        Peaking tone  & \textipa{/A\tone{352}/} ô   \\
+        \hline
+        Creaky low    & \textipa{/\~*A\tone{11}/} õ \\
+        \hline
+        Creaky rising & \textipa{/\~*A\tone{13}/} ǒ \\
+        \hline
+    \end{tabular}
+\end{center}
+
+\subsection{Phonotactics}\label{subsec:phonotactics}
+
+The syllable structure of the language is (C)(R)V(C),
+where C is a consonant, R is a (possibly lateral) approximant, and V is a vowel,
+with some tone if it is accented.
+When there is a syllable-initial consonant cluster,
+only the following CR groups are possible, chosen based on ease of pronunciation:
+\begin{center}
+    \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+        \hline
+        & t          & k          & n          & g          & s          & x          & h          & z          & c          \\
+        \hline
+        r &            & \checkmark &            & \checkmark &            & \checkmark & \checkmark &            & \checkmark \\
+        \hline
+        w & \checkmark & \checkmark & \checkmark & \checkmark & \checkmark & \checkmark & \checkmark & \checkmark & \checkmark \\
+        \hline
+        l &            & \checkmark &            &            & \checkmark & \checkmark & \checkmark &            &            \\
+        \hline
+        ł &            & \checkmark &            &            & \checkmark & \checkmark & \checkmark &            &            \\
+        \hline
+    \end{tabular}
+\end{center}
+
+Otherwise, any consonant can start a syllable.
+
+Any consonant other than h can end a syllable.
+
+The central vowel is intended to be just one vowel, not a diphthong.
+
+\subsection{Example Phonotactically Sound Words}\label{subsec:example-phonotactically-sound-words}
+\begin{itemize}
+    \item wùg \textipa{/wuN\tone{51}/} ``me''
+    \item słygiz \textipa{/s\L{}1Ni\t{ts}\tone{33}/} ``vine''
+    \item hengó \textipa{/henNA\tone{35}/} ``forest''
+    \item rõk \textipa{/\:R\~*Ak\tone{11}/} ``mountain''
+    \item kłas \textipa{/k\L{}\~*\ae{}s\tone{13}/} ``glass''
+\end{itemize}

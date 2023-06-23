@@ -1,0 +1,34 @@
+\contentsline {section}{\numberline {1}Background}{3}{section.1}%
+\contentsline {section}{\numberline {2}Phonology}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Consonants}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Vowels}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Tones and Phonation}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Phonotactics}{6}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Example Phonotactically Sound Words}{6}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Pronouns}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Pronouns}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Examples}{7}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Nouns and Stance Forms}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Inspiration for Stance Forms}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Inspirational for Dimensional Distinction}{9}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Usage of Stance Forms}{10}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Examples}{11}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Adjectives}{14}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Adjectivization}{14}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Adverbs}{14}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Verbs}{15}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Word Order}{15}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Auxiliary Verbs}{16}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Replacements for be, have, and go}{17}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Negation}{18}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Tense}{19}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}Aspect and Mood}{21}{subsection.6.6}%
+\contentsline {section}{\numberline {7}Syntax}{22}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Conjunctions and Conditionals}{22}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Subordinate Clauses}{24}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Questions}{25}{subsection.7.3}%
+\contentsline {section}{\numberline {8}Derivational Morphology}{27}{section.8}%
+\contentsline {section}{\numberline {9}Cognitive Metaphor}{30}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Experiences as Flights}{30}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Speech as Song}{30}{subsection.9.2}%
+\contentsline {section}{\numberline {10}Glossary}{31}{section.10}%
